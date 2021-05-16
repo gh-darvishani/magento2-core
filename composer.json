@@ -1,14 +1,8 @@
 {
-    "name": "Darvishani/module-core",
+    "name": "darvishani/module-core",
     "description": "this is core module",
     "type": "magento2-module",
-    "license": "proprietary",
-    "authors": [
-        {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
-        }
-    ],
+    "license": "mit",
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
